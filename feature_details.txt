@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Additional updates : This feature will include new functionss..
+=======
+This feature will improve user experience by adding functionalities
+>>>>>>> feature-update
